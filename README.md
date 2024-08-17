@@ -3,7 +3,7 @@
 <h2>About</h2>
 I've been in Tech Support for years & I'm aspiring to focus soley on Cybersecurity.  I have been following cybersecurity since IRC was the main chat, and I've just hit a point in my life where I want to do something in which my skillset is utilized.  
 
-My cybersecurity experience consists of CompTIA Security+ & Linux Essentials Certifications, College Classes, Home Labs, & [TryHackMe](https://tryhackme.com/).  I enjoy playing video games, paintball, sports, and hacking! 
+My cybersecurity experience consists of CompTIA Security+ & Linux Essentials Certifications, College Classes, Home Labs, & [TryHackMe](https://tryhackme.com/p/TaqTix).  I enjoy playing video games, paintball, sports, and hacking! 
 
 <h2>👨‍💻 CyberSecurity Experience:</h2>
 
@@ -11,7 +11,7 @@ My cybersecurity experience consists of CompTIA Security+ & Linux Essentials Cer
   - [Active Directory](https://tryhackme.com/r/room/attacktivedirectory)
   - [Splunk](https://tryhackme.com/r/room/splunk2gcd5)
   - [WireShark](https://tryhackme.com/r/room/wireshark)
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/TaqTix.png" alt="TryHackMe">
 
 - <b>TryHackMe Cyber Defense Pathway - Blue Team Experience</b><br>
 The Cyber Defense path aims to give a broad introduction to the different areas necessary to detect and respond to threats. This path will focused on the following areas: 
