@@ -11,7 +11,8 @@ My cybersecurity experience consists of CompTIA Security+ & Linux Essentials Cer
   - [Active Directory](https://tryhackme.com/r/room/attacktivedirectory)
   - [Splunk](https://tryhackme.com/r/room/splunk2gcd5)
   - [WireShark](https://tryhackme.com/r/room/wireshark)
-<img src="https://tryhackme-badges.s3.amazonaws.com/TaqTix.png" alt="TryHackMe">
+<p><a href="https://tryhackme.com/p/TaqTix"><img src="https://tryhackme-badges.s3.amazonaws.com/TaqTix.png" alt="TryHackMe"><a></p>
+
 
 - <b>TryHackMe Cyber Defense Pathway - Blue Team Experience</b><br>
 The Cyber Defense path aims to give a broad introduction to the different areas necessary to detect and respond to threats. This path will focused on the following areas: 
