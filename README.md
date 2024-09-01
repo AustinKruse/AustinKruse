@@ -1,5 +1,8 @@
 <h1>Hi, I'm Austin! <br><a href="https://www.linkedin.com/in/austin-kruse-06454b124/">CyberSecurity Professional</a> & <a href="https://github.com/AustinKruse">Programmer.</a></h1>
 
+#### if this msg is still here, this is still in progress, i cant figure out the best way to display all of the knowledge I have, for now the best resources are: https://tryhackme.com/path/outline/blueteam & https://tryhackme.com/p/TaqTix
+#### The first link is of one specific pathway Im TWO ROOMS away from finishing, and the other link shows all the rooms/topics/exercises I have completed on tryhackme.
+
 <h2>About</h2>
 I've been in Tech Support for years & I'm aspiring to focus soley on Cybersecurity.  I have been following cybersecurity since IRC was the main chat, and I've just hit a point in my life where I want to do something in which my skillset is utilized.  
 
@@ -7,29 +10,29 @@ My cybersecurity experience consists of CompTIA Security+ & Linux Essentials Cer
 
 <h2>👨‍💻 CyberSecurity Experience:</h2>
 
-- <b>TryHackMe Experience</b>
+- ### TryHackMe Experience - 
+  - [Cyber Defense Pathway Outline](https://tryhackme.com/path/outline/blueteam)
   - [Active Directory](https://tryhackme.com/r/room/attacktivedirectory)
   - [Splunk](https://tryhackme.com/r/room/splunk2gcd5)
   - [WireShark](https://tryhackme.com/r/room/wireshark)
+  - 
 <p><a href="https://tryhackme.com/p/TaqTix"><img src="https://tryhackme-badges.s3.amazonaws.com/TaqTix.png" alt="TryHackMe"><a></p>
 
+### [TryHackMe Cyber Defense Pathway - Blue Team Experience](https://tryhackme.com/path/outline/blueteam)
 
-- <b>TryHackMe Cyber Defense Pathway - Blue Team Experience</b><br>
-The Cyber Defense path aims to give a broad introduction to the different areas necessary to detect and respond to threats. This path will focused on the following areas: 
-
-| Category                          | Tools, Tactics, & Procedures                                                                                     |
-|:---------------------------------:|:------------------------------------------------------------------------------------------|
-| **Getting Started**               | <strong>[+]</strong> Understanding, Enumerating & Exploiting: SMB, FTP, Telnet, NFS, SMTP, & MySQL <br><b>[+]</b> Nmap &nbsp;&nbsp;<b>[+]</b> Hydra &nbsp;&nbsp;<b>[+]</b> Metasploit &nbsp;&nbsp;<b>[+]</b> Wireshark &nbsp;&nbsp;<b>[+]</b> Active Directory |
-| **Threat and Vulnerability Management** | <b>[+]</b> Nessus Vulnerability Scanner &nbsp;&nbsp;<b>[+]</b> MITRE ATT&CK Framework &nbsp;&nbsp;<b>[+]</b> YARA &nbsp;&nbsp;<b>[+]</b> yarGen <br><b>[+]</b> LOKI &nbsp;&nbsp;<b>[+]</b> Valhalla &nbsp;&nbsp;<b>[+]</b> ZeroLogon Vulnerability &nbsp;&nbsp;<b>[+]</b> OpenVAS &nbsp;&nbsp;<b>[+]</b> MISP |
-| **Security Operations and Monitoring** | <b>[+]</b> Core Windows Processes &nbsp;&nbsp;<b>[+]</b> Sysinternals &nbsp;&nbsp;<b>[+]</b> Windows Event Logs <br><b>[+]</b> Sysmon &nbsp;&nbsp;<b>[+]</b> OSquery &nbsp;&nbsp;<b>[+]</b> Splunk          |
-| **Threat Emulation**              | <b>[+]</b> Enumerating & Exploiting Active Directory & Kerberos <br><b>[+]</b> Enum4linux                           |
-| **Incident Response & Forensics** | <b>[+]</b> Volatility &nbsp;&nbsp;<b>[+]</b> Windows Machine Investigation Experience &nbsp;&nbsp;<b>[+]</b> Windows Forensics <br><b>[+]</b> Redline &nbsp;&nbsp;&nbsp;&nbsp;<b>[+]</b> Autopsy &nbsp;&nbsp;<b>[+]</b> Disk Analysis & Autopsy |
-| **Malware Analysis & Reverse Engineering** | <b>[+]</b> History of Malware &nbsp;&nbsp;<b>[+]</b> Basic Malware Reverse Engineering &nbsp;&nbsp;<br><b>[+]</b> Strings &nbsp;&nbsp;<b>[+]</b> REMnux                   |
+| **Cyber Defense Introduction**     | **Threat and Vulnerability Management**  | **Security Operations & Monitoring** | **Threat Emulation**                   | **Incident Response and Forensics**    | **Malware Analysis**                |
+|------------------------------------|------------------------------------------|--------------------------------------|----------------------------------------|----------------------------------------|--------------------------------------|
+| ◇ Tutorial                         | ◇ Nessus                                 | ◇ Core Windows Processes             | ◇ Attacktive Directory                 | ◇ Volatility                          | ◇ History of Malware                 |
+| ◇ Introductory Networking          | ◇ MITRE                                  | ◇ Sysinternals                       | ◇ Attacking Kerberos                   | ◇ Investigating Windows               | ◇ MAL: Malware Introductory          |
+| ◇ Network Services                 | ◇ Yara                                   | ◇ Windows Event Logs                 |                                        | ◇ Windows Forensics 1                 | ◇ MAL: Strings                       |
+| ◇ Network Services 2               | ◇ Zero Logon                             | ◇ Sysmon                             |                                        | ◇ Windows Forensics 2                 | ◇ Basic Malware RE                   |
+| ◇ Wireshark 101                    | ◇ OpenVAS                                | ◇ Osquery: The Basics                |                                        | ◇ Redline                             | ◇ MAL: REMnux - The Redux            |
+| ◇ Windows Fundamentals 1           | ◇ MISP                                   | ◇ Splunk: Basics                     |                                        | ◇ Autopsy                             |                                      |
+| ◇ Active Directory Basics          |                                          | ◇ Splunk 2                           |                                        | ◇ Disk Analysis & Autopsy             |                                      |
 
 After completing this path, I now know the fundamental components of detecting and responding to threats in a corporate environment and using these core concepts can build an understanding of more complex topics within this field.
 
-
-# STILL IN PROGRESS Pentest+ pathway on TryHackMe & the test from CompTIA
+## still in progress Pentest+ path on tryhackme.com & test at CompTIA
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -40,6 +43,8 @@ After completing this path, I now know the fundamental components of detecting a
 [twitter]: https://twitter.com/TaqTix_
 [instagram]: https://www.instagram.com/taqtix_/
 [linkedin]: https://www.linkedin.com/in/austin-kruse-06454b124/
+<br>
+
 
 <!--
 **AustinKruse/AustinKruse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
