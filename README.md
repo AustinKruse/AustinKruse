@@ -15,7 +15,6 @@ My cybersecurity experience consists of CompTIA Security+ & Linux Essentials Cer
   - [Active Directory](https://tryhackme.com/r/room/attacktivedirectory)
   - [Splunk](https://tryhackme.com/r/room/splunk2gcd5)
   - [WireShark](https://tryhackme.com/r/room/wireshark)
-  - 
 <p><a href="https://tryhackme.com/p/TaqTix"><img src="https://tryhackme-badges.s3.amazonaws.com/TaqTix.png" alt="TryHackMe"><a></p>
 
 ### [TryHackMe Cyber Defense Pathway - Blue Team Experience](https://tryhackme.com/path/outline/blueteam)
