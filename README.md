@@ -1,4 +1,4 @@
-<h1>Hi, I'm Austin! <br><a href="https://www.linkedin.com/in/austin-kruse-06454b124/">CyberSecurity Professional</a> & <a href="https://github.com/AustinKruse">Programmer.</a></h1>
+<h1>Hi, I'm Austin! <br><a href="https://www.linkedin.com/in/austin-kruse-06454b124/">CyberSecurity Professional</a></h1>
 
 #### if this msg is still here, this is still in progress, i cant figure out the best way to display all of the knowledge I have, for now the best resources are: https://tryhackme.com/path/outline/blueteam & https://tryhackme.com/p/TaqTix
 #### The first link is of one specific pathway Im TWO ROOMS away from finishing, and the other link shows all the rooms/topics/exercises I have completed on tryhackme.
@@ -10,24 +10,29 @@ My cybersecurity experience consists of CompTIA Security+ & Linux Essentials Cer
 
 <h2>👨‍💻 CyberSecurity Experience:</h2>
 
-- ### TryHackMe Experience - 
-  - [Cyber Defense Pathway Outline](https://tryhackme.com/path/outline/blueteam)
-  - [Active Directory](https://tryhackme.com/r/room/attacktivedirectory)
-  - [Splunk](https://tryhackme.com/r/room/splunk2gcd5)
-  - [WireShark](https://tryhackme.com/r/room/wireshark)
 <p><a href="https://tryhackme.com/p/TaqTix"><img src="https://tryhackme-badges.s3.amazonaws.com/TaqTix.png" alt="TryHackMe"><a></p>
+
+|                             🌟 **TryHackMe Experience** 🌟                             |                        📄 **TryHackMe Writeups** 📄                     |
+|:--------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|
+| [🌐 Currently in the TOP 4% of all users on the site](https://tryhackme.com/p/TaqTix)  | [📝 Investigation Windows](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Incident%20Response%20%26%20Forensics/Investigating%20Windows.md) |
+| [📚 Cyber Defense Pathway Outline](https://tryhackme.com/path/outline/blueteam)        | [📝 Redline & IOC Editor](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Incident%20Response%20%26%20Forensics/Redline%20%26%20IOC%20Editor.md) |
+| [🔐 Active Directory](https://tryhackme.com/r/room/attacktivedirectory)                | [📝 Volatility - Memory Forensics](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Incident%20Response%20%26%20Forensics/Volatility%20-%20Memory%20Forensics%20THM%20Walkthrough%20(Windows).md) |
+| [📊 Splunk](https://tryhackme.com/r/room/splunk2gcd5)                                  | [📝 Windows Forensics 1](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Incident%20Response%20%26%20Forensics/Windows%20Forensics%201.md) |
+| [🔍 WireShark](https://tryhackme.com/r/room/wireshark)                                 | [📝 Windows Forensics 2](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Incident%20Response%20%26%20Forensics/Windows%20Forensics%202.md) |
+
 
 ### [TryHackMe Cyber Defense Pathway - Blue Team Experience](https://tryhackme.com/path/outline/blueteam)
 
-| **Cyber Defense Introduction**     | **Threat and Vulnerability Management**  | **Security Operations & Monitoring** | **Threat Emulation**                   | **Incident Response and Forensics**    | **Malware Analysis**                |
-|------------------------------------|------------------------------------------|--------------------------------------|----------------------------------------|----------------------------------------|--------------------------------------|
-| ◇ Tutorial                         | ◇ Nessus                                 | ◇ Core Windows Processes             | ◇ Attacktive Directory                 | ◇ Volatility                          | ◇ History of Malware                 |
-| ◇ Introductory Networking          | ◇ MITRE                                  | ◇ Sysinternals                       | ◇ Attacking Kerberos                   | ◇ Investigating Windows               | ◇ MAL: Malware Introductory          |
-| ◇ Network Services                 | ◇ Yara                                   | ◇ Windows Event Logs                 |                                        | ◇ Windows Forensics 1                 | ◇ MAL: Strings                       |
-| ◇ Network Services 2               | ◇ Zero Logon                             | ◇ Sysmon                             |                                        | ◇ Windows Forensics 2                 | ◇ Basic Malware RE                   |
-| ◇ Wireshark 101                    | ◇ OpenVAS                                | ◇ Osquery: The Basics                |                                        | ◇ Redline                             | ◇ MAL: REMnux - The Redux            |
-| ◇ Windows Fundamentals 1           | ◇ MISP                                   | ◇ Splunk: Basics                     |                                        | ◇ Autopsy                             |                                      |
-| ◇ Active Directory Basics          |                                          | ◇ Splunk 2                           |                                        | ◇ Disk Analysis & Autopsy             |                                      |
+| 🌐 **Cyber Defense Introduction**  | 🔍 **Threat and Vulnerability Management** | 🛡️ **Security Operations & Monitoring** | 🎯 **Threat Emulation** | 🧩 **Incident Response and Forensics** | 🦠 **Malware Analysis**          |
+|:----------------------------------:|:------------------------------------------:|:--------------------------------------:|:----------------------:|:--------------------------------------:|:-------------------------------:|
+| 📚 Tutorial                        | 🔎 Nessus                                  | 🖥️ Core Windows Processes              | 🛠️ Attacktive Directory  | 🔍 Volatility                          | 🦠 History of Malware           |
+| 🌐 Introductory Networking         | 🛡️ MITRE                                   | 🧰 Sysinternals                        | 🛡️ Attacking Kerberos   | 🖥️ Investigating Windows               | 🧪 MAL: Malware Introductory    |
+| 🌍 Network Services                | 🔬 Yara                                    | 📊 Windows Event Logs                  |                        | 🗂️ Windows Forensics 1                 | 📜 MAL: Strings                 |
+| 🌐 Network Services 2              | 🔓 Zero Logon                              | 🛠️ Sysmon                              |                        | 📂 Windows Forensics 2                 | 🧪 Basic Malware RE             |
+| 🌟 Wireshark 101                   | 🛠️ OpenVAS                                 | 🔍 Osquery: The Basics                 |                        | 🗄️ Redline                             | 🧬 MAL: REMnux - The Redux      |
+| 💻 Windows Fundamentals 1          | 🧩 MISP                                    | 📈 Splunk: Basics                      |                        | 📂 Autopsy                             |                                |
+| 🏢 Active Directory Basics         |                                             | 📉 Splunk 2                            |                        | 🗃️ Disk Analysis & Autopsy            |                                |
+
 
 After completing this path, I now know the fundamental components of detecting and responding to threats in a corporate environment and using these core concepts can build an understanding of more complex topics within this field.
 
