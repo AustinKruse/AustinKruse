@@ -1,9 +1,9 @@
-<h1>Hi, I'm Austin! <br><a href="https://www.linkedin.com/in/austin-kruse-06454b124/">CyberSecurity Professional</a></h1>
+<h1>Hi, I'm Austin! <bhttps://github.com/AustinKruse/AustinKruser><a href="https://www.linkedin.com/in/austin-kruse-06454b124/">CyberSecurity Professional</a></h1>
 
-#### if this msg is still here, this is still in progress, i cant figure out the best way to display all of the knowledge I have, for now the best resources are: https://tryhackme.com/path/outline/blueteam & https://tryhackme.com/p/TaqTix
+#### Please visit [TryHackMe.com Profile](https://tryhackme.com/p/TaqTix)   [TryHackMe - Cyber Defense Pathway](https://tryhackme.com/path/outline/blueteam)
 #### The first link is of one specific pathway Im TWO ROOMS away from finishing, and the other link shows all the rooms/topics/exercises I have completed on tryhackme.
 
-<h2>About</h2>
+## About
 I've been in Tech Support for years & I'm aspiring to focus soley on Cybersecurity.  I have been following cybersecurity since IRC was the main chat, and I've just hit a point in my life where I want to do something in which my skillset is utilized.  
 
 My cybersecurity experience consists of CompTIA Security+ & Linux Essentials Certifications, College Classes, Home Labs, & [TryHackMe](https://tryhackme.com/p/TaqTix).  I enjoy playing video games, paintball, sports, and hacking! 
@@ -12,8 +12,8 @@ My cybersecurity experience consists of CompTIA Security+ & Linux Essentials Cer
 
 <p><a href="https://tryhackme.com/p/TaqTix"><img src="https://tryhackme-badges.s3.amazonaws.com/TaqTix.png" alt="TryHackMe"><a></p>
 
-|                             🌟 **TryHackMe Experience** 🌟                             |                        📄 **TryHackMe Writeups** 📄                     |
-|:--------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|
+|                             🌟 **TryHackMe Experience** 🌟                              |                        📄 **TryHackMe Writeups** 📄                        |
+| :--------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------: | 
 | [🌐 Currently in the TOP 4% of all users on the site](https://tryhackme.com/p/TaqTix)  | [📝 Investigation Windows](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Incident%20Response%20%26%20Forensics/Investigating%20Windows.md) |
 | [📚 Cyber Defense Pathway Outline](https://tryhackme.com/path/outline/blueteam)        | [📝 Redline & IOC Editor](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Incident%20Response%20%26%20Forensics/Redline%20%26%20IOC%20Editor.md) |
 | [🔐 Active Directory](https://tryhackme.com/r/room/attacktivedirectory)                | [📝 Volatility - Memory Forensics](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Incident%20Response%20%26%20Forensics/Volatility%20-%20Memory%20Forensics%20THM%20Walkthrough%20(Windows).md) |
