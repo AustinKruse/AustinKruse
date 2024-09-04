@@ -14,11 +14,11 @@ My cybersecurity experience consists of CompTIA Security+ & Linux Essentials Cer
 
 |                             🌟 **TryHackMe Experience** 🌟                              |                        📄 **TryHackMe Writeups** 📄                        |
 | :--------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------: | 
-| [🌐 Currently in the TOP 4% of all users on the site](https://tryhackme.com/p/TaqTix)  | [📝 Investigation Windows](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Incident%20Response%20%26%20Forensics/Investigating%20Windows.md) |
-| [📚 Cyber Defense Pathway Outline](https://tryhackme.com/path/outline/blueteam)        | [📝 Redline & IOC Editor](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Incident%20Response%20%26%20Forensics/Redline%20%26%20IOC%20Editor.md) |
-| [🔐 Active Directory](https://tryhackme.com/r/room/attacktivedirectory)                | [📝 Volatility - Memory Forensics](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Incident%20Response%20%26%20Forensics/Volatility%20-%20Memory%20Forensics%20THM%20Walkthrough%20(Windows).md) |
-| [📊 Splunk](https://tryhackme.com/r/room/splunk2gcd5)                                  | [📝 Windows Forensics 1](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Incident%20Response%20%26%20Forensics/Windows%20Forensics%201.md) |
-| [🔍 WireShark](https://tryhackme.com/r/room/wireshark)                                 | [📝 Windows Forensics 2](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Incident%20Response%20%26%20Forensics/Windows%20Forensics%202.md) |
+| [🌐 Currently in the TOP 4% of all users on the site](https://tryhackme.com/p/TaqTix)  | [📝 Investigation Windows](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Labs/Investigating%20Windows.md) |
+| [📚 Cyber Defense Pathway Outline](https://tryhackme.com/path/outline/blueteam)        | [📝 Redline & IOC Editor](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Labs/Redline%20%26%20IOC%20Editor.md) |
+| [🔐 Active Directory](https://tryhackme.com/r/room/attacktivedirectory)                | [📝 Volatility - Memory Forensics](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Labs/Volatility%20-%20Memory%20Forensics%20THM%20Walkthrough%20(Windows).md) |
+| [📊 Splunk](https://tryhackme.com/r/room/splunk2gcd5)                                  | [📝 Windows Forensics 1](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Labs/Windows%20Forensics%201.md) |
+| [🔍 WireShark](https://tryhackme.com/r/room/wireshark)                                 | [📝 Windows Forensics 2](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Labs/Windows%20Forensics%202.md) |
 
 
 ### [TryHackMe Cyber Defense Pathway - Blue Team Experience](https://tryhackme.com/path/outline/blueteam)
