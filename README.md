@@ -1,12 +1,9 @@
 <h1>Hi, I'm Austin! <bhttps://github.com/AustinKruse/AustinKruser><a href="https://www.linkedin.com/in/austin-kruse-06454b124/">CyberSecurity Professional</a></h1>
 
-#### Please visit [TryHackMe.com Profile](https://tryhackme.com/p/TaqTix)   [TryHackMe - Cyber Defense Pathway](https://tryhackme.com/path/outline/blueteam)
-#### The first link is of one specific pathway Im TWO ROOMS away from finishing, and the other link shows all the rooms/topics/exercises I have completed on tryhackme.
-
 ## About
-I've been in Tech Support for years & I'm aspiring to focus soley on Cybersecurity.  I have been following cybersecurity since IRC was the main chat, and I've just hit a point in my life where I want to do something in which my skillset is utilized.  
+I've been in Tech Support for years & I'm aspiring to focus soley on Cybersecurity.  I created this page to showcase my skillsets in further detail.
 
-My cybersecurity experience consists of CompTIA Security+ & Linux Essentials Certifications, College Classes, Home Labs, & [TryHackMe](https://tryhackme.com/p/TaqTix).  I enjoy playing video games, paintball, sports, and hacking! 
+Certifications: CompTIA Security+ & Linux Essentials Certifications, College Classes, Home Labs, & [TryHackMe](https://tryhackme.com/p/TaqTix).  I enjoy playing video games, paintball, sports, and hacking! 
 
 ## 👨‍💻 CyberSecurity Experience:
 
