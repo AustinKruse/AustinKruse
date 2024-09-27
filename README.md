@@ -1,11 +1,12 @@
-<h1>Hi, I'm Austin! <bhttps://github.com/AustinKruse/AustinKruse><a href="https://www.linkedin.com/in/austin-kruse-06454b124/">CyberSecurity Professional</a></h1>
+<h1>Hi, I'm Austin! <bhttps://github.com/AustinKruse/AustinKruse><a href="https://www.linkedin.com/in/austin-kruse-06454b124/">Aspiring CyberSecurity Junior</a></h1>
 
 ## About
 I've been in Tech Support for years & I'm aspiring to focus soley on Cybersecurity.  I enjoy playing video games, paintball, sports, and hacking! 
 I created this page to showcase my skillsets in further detail. 
 
 Certifications: **CompTIA Security+ ce**, **Linux Essentials**, [Cyber Defense Pathway (TryHackMe) - Certificate of Completion](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GVRNCHPWBM.png)
-- College Classes, Home Labs, & [TryHackMe](https://tryhackme.com/p/TaqTix).  
+
+College Classes, Home Labs, & [TryHackMe](https://tryhackme.com/p/TaqTix)  
 
 ## 👨‍💻 CyberSecurity Experience:
 
@@ -37,9 +38,7 @@ Certifications: **CompTIA Security+ ce**, **Linux Essentials**, [Cyber Defense P
 
 After completing this path, I now know the fundamental components of detecting and responding to threats in a corporate environment and using these core concepts can build an understanding of more complex topics within this field.
 
-
-
-## still in progress Pentest+ path on tryhackme.com & test at CompTIA
+Still need to go through and try adding my college classwork. 
 
 <h2> 🤳 Connect with me:</h2>
 
