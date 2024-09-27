@@ -1,31 +1,29 @@
 <h1>Hi, I'm Austin! <bhttps://github.com/AustinKruse/AustinKruse><a href="https://www.linkedin.com/in/austin-kruse-06454b124/">CyberSecurity Professional</a></h1>
 
 ## About
-I've been in Tech Support for years & I'm aspiring to focus soley on Cybersecurity.  I created this page to showcase my skillsets in further detail.
+I've been in Tech Support for years & I'm aspiring to focus soley on Cybersecurity.  I enjoy playing video games, paintball, sports, and hacking! 
+I created this page to showcase my skillsets in further detail. 
 
-Certifications: CompTIA Security+ & Linux Essentials Certifications, College Classes, Home Labs, & [TryHackMe](https://tryhackme.com/p/TaqTix).  I enjoy playing video games, paintball, sports, and hacking! 
+Certifications: **CompTIA Security+ ce**, **Linux Essentials**, [Cyber Defense Pathway (TryHackMe) - Certificate of Completion](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GVRNCHPWBM.png)
+- College Classes, Home Labs, & [TryHackMe](https://tryhackme.com/p/TaqTix).  
 
 ## 👨‍💻 CyberSecurity Experience:
 
 <p><a href="https://tryhackme.com/p/TaqTix"><img src="https://tryhackme-badges.s3.amazonaws.com/TaqTix.png" alt="TryHackMe"><a></p>
 
-
 |                               🌟 **TryHackMe Experience** 🌟                               |                           📄 **TryHackMe Writeups** 📄                            |
 | :---------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | 
 | [🌐 Currently in the TOP 4% of all users on the site](https://tryhackme.com/p/TaqTix)     | [📝 Autopsy](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Labs/Autopsy.md)                                      |
 | [📚 Cyber Defense Pathway Outline](https://tryhackme.com/path/outline/blueteam)           | [📝 Basic Malware Reverse Engineering](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Labs/Basic%20Malware%20Reverse%20Engineering.md) |
-| [🔐 Active Directory](https://tryhackme.com/r/room/attacktivedirectory)                   | [📝 Disk Analysis & Autopsy](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Labs/Disk%20Analysis%20%26%20Autopsy.md) |
+| [📋 Cyber Defense Pathway Certificate of Completion](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GVRNCHPWBM.png) | [📝 Disk Analysis & Autopsy](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Labs/Disk%20Analysis%20%26%20Autopsy.md) |
 | [📊 Splunk](https://tryhackme.com/r/room/splunk2gcd5)                                     | [📝 Investigation Windows](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Labs/Investigating%20Windows.md)     |
 | [🔍 WireShark](https://tryhackme.com/r/room/wireshark)                                    | [📝 Redline & IOC Editor](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Labs/Redline%20%26%20IOC%20Editor.md) |
-|                                                                                           | [📝 Volatility - Memory Forensics](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Labs/Volatility%20-%20Memory%20Forensics%20THM%20Walkthrough%20(Windows).md) |
+| [🔐 Active Directory](https://tryhackme.com/r/room/attacktivedirectory)                   | [📝 Volatility - Memory Forensics](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Labs/Volatility%20-%20Memory%20Forensics%20THM%20Walkthrough%20(Windows).md) |
 |                                                                                           | [📝 Windows Forensics 1](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Labs/Windows%20Forensics%201.md)       |
 |                                                                                           | [📝 Windows Forensics 2](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Labs/Windows%20Forensics%202.md)       |
 
 
-
-
-
-### [TryHackMe Cyber Defense Pathway - Blue Team Experience](https://tryhackme.com/path/outline/blueteam)
+### [TryHackMe Cyber Defense Pathway Outline](https://tryhackme.com/path/outline/blueteam)
 
 |                      🌐 **Cyber Defense Introduction**                      |               🔍 **Threat and Vulnerability Management**              |                 🛡️ **Security Operations & Monitoring**                 |                       🎯 **Threat Emulation**                       |                   🧩 **Incident Response and Forensics**                  |                             🦠 **Malware Analysis**                             |
 | :-------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :---------------------------------------------------------------------: | :-----------------------------------------------------------------: | :----------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
@@ -45,11 +43,9 @@ After completing this path, I now know the fundamental components of detecting a
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="AustinKruse | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="AustinKruse | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AustinKruse | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/TaqTix_
 [instagram]: https://www.instagram.com/taqtix_/
 [linkedin]: https://www.linkedin.com/in/austin-kruse-06454b124/
 <br>
