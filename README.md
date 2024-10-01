@@ -14,14 +14,14 @@ College Classes, Home Labs, & [TryHackMe](https://tryhackme.com/p/TaqTix)
 
 |                               🌟 **TryHackMe Experience** 🌟                               |                           📄 **TryHackMe Writeups** 📄                            |
 | :---------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | 
-| [🌐 Currently in the TOP 4% of all users on the site](https://tryhackme.com/p/TaqTix)     | [📝 Autopsy](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Labs/Autopsy.md)                                      |
-| [📚 Cyber Defense Pathway Outline](https://tryhackme.com/path/outline/blueteam)           | [📝 Basic Malware Reverse Engineering](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Labs/Basic%20Malware%20Reverse%20Engineering.md) |
-| [📋 Cyber Defense Pathway Certificate of Completion](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GVRNCHPWBM.png) | [📝 Disk Analysis & Autopsy](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Labs/Disk%20Analysis%20%26%20Autopsy.md) |
-| [📊 Splunk](https://tryhackme.com/r/room/splunk2gcd5)                                     | [📝 Investigation Windows](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Labs/Investigating%20Windows.md)     |
-| [🔍 WireShark](https://tryhackme.com/r/room/wireshark)                                    | [📝 Redline & IOC Editor](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Labs/Redline%20%26%20IOC%20Editor.md) |
-| [🔐 Active Directory](https://tryhackme.com/r/room/attacktivedirectory)                   | [📝 Volatility - Memory Forensics](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Labs/Volatility%20-%20Memory%20Forensics%20THM%20Walkthrough%20(Windows).md) |
-|                                                                                           | [📝 Windows Forensics 1](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Labs/Windows%20Forensics%201.md)       |
-|                                                                                           | [📝 Windows Forensics 2](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Labs/Windows%20Forensics%202.md)       |
+| [🌐 Currently in the TOP 4% of all users on the site](https://tryhackme.com/p/TaqTix)     | [📝 Autopsy](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Cyber%20Defense%20Labs/Autopsy.md)                                      |
+| [📚 Cyber Defense Pathway Outline](https://tryhackme.com/path/outline/blueteam)           | [📝 Basic Malware Reverse Engineering](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Cyber%20Defense%20Labs/Basic%20Malware%20Reverse%20Engineering.md) |
+| [📋 Cyber Defense Pathway Certificate of Completion](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GVRNCHPWBM.png) | [📝 Disk Analysis & Autopsy](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Cyber%20Defense%20Labs/Disk%20Analysis%20%26%20Autopsy.md) |
+| [📊 Splunk](https://tryhackme.com/r/room/splunk2gcd5)                                     | [📝 Investigation Windows](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Cyber%20Defense%20Labs/Investigating%20Windows.md)     |
+| [🔍 WireShark](https://tryhackme.com/r/room/wireshark)                                    | [📝 Redline & IOC Editor](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Cyber%20Defense%20Labs/Redline%20%26%20IOC%20Editor.md) |
+| [🔐 Active Directory](https://tryhackme.com/r/room/attacktivedirectory)                   | [📝 Volatility - Memory Forensics](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Cyber%20Defense%20Labs/Volatility%20-%20Memory%20Forensics%20THM%20Walkthrough%20(Windows).md) |
+|                                                                                           | [📝 Windows Forensics 1](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Cyber%20Defense%20Labs/Windows%20Forensics%201.md)       |
+|                                                                                           | [📝 Windows Forensics 2](https://github.com/AustinKruse/Obsidian-Vault/blob/main/Cyber%20Defense%20Labs/Windows%20Forensics%202.md)       |
 
 
 ### [TryHackMe Cyber Defense Pathway Outline](https://tryhackme.com/path/outline/blueteam)
