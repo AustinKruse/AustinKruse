@@ -1,16 +1,37 @@
-<h1>Hi, I'm Austin! <bhttps://github.com/AustinKruse/AustinKruse><a href="https://www.linkedin.com/in/austin-kruse-06454b124/">Aspiring CyberSecurity Junior</a></h1>
+<h1>Hi, I'm Austin! <bhttps://github.com/AustinKruse/AustinKruse><a href="https://www.linkedin.com/in/austin-kruse-06454b124/">Aspiring CyberSecurity Professional</a></h1>
 
 ## About
-I've been in Tech Support for years & I'm aspiring to focus soley on Cybersecurity.  I enjoy playing video games, paintball, sports, and hacking! 
+I've been in Tech Support for years & I'm aspiring to focus soley on Cybersecurity.  
+
+I'm a 2nd Degree Black Belt in Taekwondo, former football Running back, former center forward Soccer player, while concurrently holding a near 4.0 GPA.
+I enjoy playing video games, paintball, sports, and hacking!
 I created this page to showcase my skillsets in further detail. 
-
-Certifications: **CompTIA Security+ ce**, **Linux Essentials**, [Cyber Defense Pathway (TryHackMe) - Certificate of Completion](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GVRNCHPWBM.png)
-
-College Classes, Home Labs, & [TryHackMe](https://tryhackme.com/p/TaqTix)  
 
 ## 👨‍💻 CyberSecurity Experience:
 
-<p><a href="https://tryhackme.com/p/TaqTix"><img src="https://tryhackme-badges.s3.amazonaws.com/TaqTix.png" alt="TryHackMe"><a></p>
+### Certifications:
+ - **[CompTIA Security+ ce (2024)](https://www.credly.com/badges/8fa3a732-8264-479b-8810-8d32632fefbf/linked_in_profile)**
+ - **[Cyber Defense Pathway (TryHackMe) - Certificate of Completion (2024)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GVRNCHPWBM.png)**
+ - **Linux Essentials (2022)**
+ - **[CompTIA Pentest+ Pathway (TryHackMe) - Certificate of Completion (2022)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QDMD6S7DZX.png)**
+
+### College Classes:
+#### **These classes align with the NSA Center of Academic Excellence in Cyber Operations (CAE-CO) requirements for Offensive and Defensive Cyber Operations.**
+ - Cyber Operations
+ - Active Cyber Defense (SIEM Labs)
+ - Cyber Threat Intelligence
+ - Malware Threats & Analysis (Static & Dynamic Analysis)
+ - Violent Python
+ - Cyber Warfare (Recon, Scanning & Exploitation, Post Exploitation, Password Attacks & Defenses, Web App Attacks, Social Engineering)
+ - Cloud Computing
+ - Wireless Networking & Security (3G, 4G, 5G)
+
+
+
+### TryHackMe & Projects
+  - [TryHackMe Profile](https://tryhackme.com/p/TaqTix)
+
+<p><a href="https://tryhackme.com/p/TaqTix"><img src="https://tryhackme-badges.s3.amazonaws.com/TaqTix.png" alt="TryHackMe1"><a></p>
 
 |                               🌟 **TryHackMe Experience** 🌟                               |                           📄 **TryHackMe Writeups** 📄                            |
 | :---------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | 
