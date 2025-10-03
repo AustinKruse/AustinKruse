@@ -1,4 +1,4 @@
-<h1>Hi, I'm Austin! <bhttps://github.com/AustinKruse/AustinKruse><a href="https://www.linkedin.com/in/austin-kruse-06454b124/">Aspiring CyberSecurity Professional</a></h1>
+<h1>Hi, I'm Austin! <bhttps://github.com/AustinKruse/AustinKruse><a href="https://www.linkedin.com/in/austinbkruse/">Aspiring CyberSecurity Professional</a></h1>
 
 ## About
 I've been in Tech Support for years & I'm aspiring to focus soley on Cybersecurity.  
@@ -14,6 +14,7 @@ I created this page to showcase my skillsets in further detail.
  - **[Cyber Defense Pathway (TryHackMe) - Certificate of Completion (2024)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GVRNCHPWBM.png)**
  - **Linux Essentials (2022)**
  - **[CompTIA Pentest+ Pathway (TryHackMe) - Certificate of Completion (2022)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QDMD6S7DZX.png)**
+ - **[AWS Cloud Practitioner Essentials (Second Edition): Introduction to the AWS Cloud](https://github.com/AustinKruse/AustinKruse/blob/main/assets/AWS-Training-%26-Certification-Certificate-of-Completion.pdf)**
 
 ### College Classes:
 #### **These classes align with the NSA Center of Academic Excellence in Cyber Operations (CAE-CO) requirements for Offensive and Defensive Cyber Operations.**
@@ -31,7 +32,7 @@ I created this page to showcase my skillsets in further detail.
 ### TryHackMe & Projects
   - [TryHackMe Profile](https://tryhackme.com/p/TaqTix)
 
-<p><a href="https://tryhackme.com/p/TaqTix"><img src="https://tryhackme-badges.s3.amazonaws.com/TaqTix.png" alt="TryHackMe1"><a></p>
+[<img src="https://tryhackme-badges.s3.amazonaws.com/TaqTix.png" alt="Your Image Badge" />](https://tryhackme.com/p/TaqTix)
 
 |                               🌟 **TryHackMe Experience** 🌟                               |                           📄 **TryHackMe Writeups** 📄                            |
 | :---------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | 
@@ -64,10 +65,8 @@ Still need to go through and try adding my college classwork.
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="AustinKruse | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AustinKruse | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/taqtix_/
-[linkedin]: https://www.linkedin.com/in/austin-kruse-06454b124/
+[linkedin]: https://www.linkedin.com/in/austinbkruse/
 <br>
 
 
